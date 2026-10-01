@@ -55,7 +55,4 @@ Employee references are used to work with different employee types while invokin
 ```text
 Salary = Basic Salary + Allowance - Deduction
 
-### Permanent Employee
 
-```text
-Salary = Basic Salary + Allowance - Deduction
