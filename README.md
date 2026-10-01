@@ -1,15 +1,3 @@
-
----
-
-# Employee Payroll Management System
-
-**Repository:** `employee-payroll-management-system`
-
-Your code currently has `public class Main`, so upload the source file as **`Main.java`**. The program creates Permanent, Contract, and Part-Time employees and calculates their salaries through overridden methods. :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8}
-
-Copy this into the repository's `README.md`:
-
-```markdown
 # Employee Payroll Management System
 
 A Java-based employee payroll management system developed to demonstrate object-oriented programming concepts such as inheritance and method overriding.
@@ -61,6 +49,11 @@ The project uses classes and objects to represent employees and their payroll in
 Employee references are used to work with different employee types while invoking their respective salary calculation methods.
 
 ## Salary Calculation
+
+### Permanent Employee
+
+```text
+Salary = Basic Salary + Allowance - Deduction
 
 ### Permanent Employee
 
